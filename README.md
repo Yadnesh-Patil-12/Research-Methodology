@@ -44,9 +44,9 @@ The objective of this coursework is to develop essential research skills, analyt
 | 01 | Literature Survey | 01–19 |
 | 02 | Experimental Design and Execution | 20–30 |
 | 03 | Data Analysis and Exercise | 31–42 |
-| 04 | Technical Report Writing (SJR) | 43–59 |
+| 04 | Technical Report Writing (SLR) | 43–59 |
 | 05 | Research Proposal Writing | 60–77 |
-| 06 | Research Presentation | 78–86 |
+| 06 | Research Presentation PPT | 78–86 |
 | 07 | Ethics and Plagiarism Module | 87–90 |
 
 ---
