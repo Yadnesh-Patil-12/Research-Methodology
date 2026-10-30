@@ -41,9 +41,9 @@ The objective is to develop essential research skills, analytical thinking, acad
 | 01 | Literature Survey | 01–19 |
 | 02 | Experimental Design and Execution | 20–30 |
 | 03 | Data Analysis and Exercise | 31–42 |
-| 04 | Technical Report Writing (SJR) | 43–59 |
+| 04 | Technical Report Writing (SLR) | 43–59 |
 | 05 | Research Proposal Writing | 60–77 |
-| 06 | Research Presentation | 78–86 |
+| 06 | Research Presentation PPT | 78–86 |
 | 07 | Ethics and Plagiarism Module | 87–90 |
 
 ---
@@ -90,7 +90,7 @@ The objective is to develop essential research skills, analytical thinking, acad
 
 **Learning Outcome:** Ability to analyze research data, interpret statistical results, and draw meaningful conclusions.
 
-### 4. Technical Report Writing (SJR)
+### 4. Technical Report Writing (SLR)
 **Pages: 43–59**
 
 - Fundamentals of technical report writing.
