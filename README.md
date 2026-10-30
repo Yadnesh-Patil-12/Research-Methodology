@@ -1,39 +1,36 @@
+
 # 📚 Research Methodology (RM) – Practical Assignments
 
 <p align="center">
-
-**Seven Assignments | Research, Analysis & Academic Writing**
-
-**Yadnesh Patil**
-
-B.Tech – Final Year | Computer Engineering (Regional Language)
-
-Pimpri Chinchwad College of Engineering (PCCOE), Pune
-
+  <b>Seven Assignments | Research, Analysis & Academic Writing</b>
+  <br><br>
+  <b>Yadnesh Patil</b>
+  <br>
+  B.Tech – Final Year | Computer Engineering (Regional Language)
+  <br>
+  Pimpri Chinchwad College of Engineering, Pune
 </p>
 
 ---
 
 ## 📖 About This Repository
 
-This repository contains all **7 practical assignments** completed as part of the **Research Methodology (RM)** course during the Final Year of the Bachelor of Technology (B.Tech) program in Computer Engineering (Regional Language) at Pimpri Chinchwad College of Engineering, Pune.
+This repository contains **7 practical assignments** completed as part of the **Research Methodology (RM)** course during the Final Year of the Bachelor of Technology (B.Tech) program at Pimpri Chinchwad College of Engineering, Pune.
 
-The assignments focus on understanding research fundamentals, conducting literature surveys, designing experiments, analyzing data, preparing technical reports, developing research proposals, presenting research findings, and understanding research ethics.
+These assignments cover the complete research process, including literature surveys, experimental design, data analysis, technical report writing, research proposal development, research presentations, and research ethics.
 
-The objective of this coursework is to develop essential research skills, analytical thinking, academic writing abilities, and a systematic approach to solving research problems.
-
----
+The objective is to develop essential research skills, analytical thinking, academic writing abilities, and a systematic approach to solving research problems.
 
 ## 🎯 Objectives
 
-- Understand the fundamentals and importance of research methodology.
+- Understand the fundamentals of research methodology.
 - Explore existing research through literature surveys.
 - Learn experimental design and execution techniques.
-- Apply statistical methods and analytical tools to research data.
+- Apply statistical methods to research data.
 - Develop technical and scientific report-writing skills.
 - Prepare structured research proposals.
 - Improve research presentation and communication skills.
-- Understand research ethics, plagiarism, and academic integrity.
+- Understand research ethics and plagiarism.
 
 ---
 
@@ -44,22 +41,19 @@ The objective of this coursework is to develop essential research skills, analyt
 | 01 | Literature Survey | 01–19 |
 | 02 | Experimental Design and Execution | 20–30 |
 | 03 | Data Analysis and Exercise | 31–42 |
-| 04 | Technical Report Writing (SLR) | 43–59 |
+| 04 | Technical Report Writing (SJR) | 43–59 |
 | 05 | Research Proposal Writing | 60–77 |
-| 06 | Research Presentation PPT | 78–86 |
+| 06 | Research Presentation | 78–86 |
 | 07 | Ethics and Plagiarism Module | 87–90 |
 
 ---
 
 ## 📝 Assignments Overview
 
-### 01. Literature Survey
+### 1. Literature Survey
 **Pages: 01–19**
 
-This assignment focuses on exploring existing research publications and understanding how to conduct a systematic literature survey.
-
-**Topics Covered:**
-- Introduction to research methodology.
+- Introduction to Research Methodology.
 - Understanding research papers and publications.
 - Identifying relevant research articles.
 - Reviewing existing research work.
@@ -69,32 +63,22 @@ This assignment focuses on exploring existing research publications and understa
 
 **Learning Outcome:** Ability to search, evaluate, compare, and summarize existing research publications.
 
----
-
-### 02. Experimental Design and Execution
+### 2. Experimental Design and Execution
 **Pages: 20–30**
 
-This assignment focuses on planning and conducting experiments using appropriate research methodologies.
-
-**Topics Covered:**
 - Fundamentals of experimental research.
 - Types of research designs.
 - Identification of independent and dependent variables.
 - Experimental planning and execution.
 - Data collection techniques.
 - Selection of appropriate experimental methods.
-- Recording and documenting experimental observations.
+- Recording experimental observations.
 
 **Learning Outcome:** Understanding how to design, organize, and execute experiments systematically.
 
----
-
-### 03. Data Analysis and Exercise
+### 3. Data Analysis and Exercise
 **Pages: 31–42**
 
-This assignment deals with analyzing collected research data and interpreting the results using appropriate analytical techniques.
-
-**Topics Covered:**
 - Introduction to statistical analysis.
 - Sources of errors and uncertainty.
 - Descriptive statistics.
@@ -106,14 +90,9 @@ This assignment deals with analyzing collected research data and interpreting th
 
 **Learning Outcome:** Ability to analyze research data, interpret statistical results, and draw meaningful conclusions.
 
----
-
-### 04. Technical Report Writing (SJR)
+### 4. Technical Report Writing (SJR)
 **Pages: 43–59**
 
-This assignment focuses on preparing professional technical and scientific reports using appropriate academic writing standards.
-
-**Topics Covered:**
 - Fundamentals of technical report writing.
 - Structure of a research report.
 - Abstract and introduction writing.
@@ -125,14 +104,9 @@ This assignment focuses on preparing professional technical and scientific repor
 
 **Learning Outcome:** Ability to prepare well-structured, clear, and technically sound research reports.
 
----
-
-### 05. Research Proposal Writing
+### 5. Research Proposal Writing
 **Pages: 60–77**
 
-This assignment focuses on developing a formal research proposal to communicate a research problem and its proposed solution.
-
-**Topics Covered:**
 - Introduction to research proposals.
 - Identification of research problems.
 - Defining research objectives.
@@ -144,14 +118,9 @@ This assignment focuses on developing a formal research proposal to communicate 
 
 **Learning Outcome:** Ability to develop a structured research proposal with clear objectives, methodology, and expected outcomes.
 
----
-
-### 06. Research Presentation
+### 6. Research Presentation
 **Pages: 78–86**
 
-This assignment focuses on communicating research findings effectively through structured presentations.
-
-**Topics Covered:**
 - Fundamentals of research presentations.
 - Structuring presentation slides.
 - Presenting research objectives and methodology.
@@ -162,14 +131,9 @@ This assignment focuses on communicating research findings effectively through s
 
 **Learning Outcome:** Ability to communicate research ideas, methodologies, and findings through professional presentations.
 
----
-
-### 07. Ethics and Plagiarism Module
+### 7. Ethics and Plagiarism Module
 **Pages: 87–90**
 
-This assignment focuses on understanding ethical responsibilities and maintaining academic integrity throughout the research process.
-
-**Topics Covered:**
 - Introduction to research ethics.
 - Ethical principles in scientific research.
 - Understanding plagiarism.
@@ -192,7 +156,7 @@ This assignment focuses on understanding ethical responsibilities and maintainin
 | Analytical | Statistical Analysis, Data Interpretation |
 | Technical Writing | Research Reports, Documentation |
 | Proposal Development | Problem Identification, Research Planning |
-| Communication | Technical Presentation, Research Communication |
+| Communication | Technical Presentation |
 | Ethics | Academic Integrity, Citation, Plagiarism Awareness |
 
 ---
@@ -211,18 +175,43 @@ This assignment focuses on understanding ethical responsibilities and maintainin
 
 ---
 
+## 📁 Repository Structure
+
+```text
+Research-Methodology/
+│
+├── README.md
+│
+├── Assignment-01-Literature-Survey/
+│
+├── Assignment-02-Experimental-Design/
+│
+├── Assignment-03-Data-Analysis/
+│
+├── Assignment-04-Technical-Report-Writing/
+│
+├── Assignment-05-Research-Proposal/
+│
+├── Assignment-06-Research-Presentation/
+│
+└── Assignment-07-Ethics-and-Plagiarism/
+```
+
+---
+
 ## 👨‍💻 Author
 
 **Yadnesh Patil**
 
-- 🎓 Degree: Bachelor of Technology (B.Tech)
-- 💻 Department: Computer Engineering (Regional Language)
-- 🏫 College: Pimpri Chinchwad College of Engineering, Pune
-- 📅 Academic Year: 2026–27
+- **Degree:** Bachelor of Technology (B.Tech)
+- **Year:** Final Year
+- **Department:** Computer Engineering (Regional Language)
+- **College:** Pimpri Chinchwad College of Engineering, Pune
+- **Academic Year:** 2026–27
 
 ---
 
-## ⭐ Acknowledgement
+## 🙏 Acknowledgement
 
 I would like to express my gratitude to the faculty members of the Department of Computer Engineering at Pimpri Chinchwad College of Engineering for their guidance and support throughout the Research Methodology coursework.
 
@@ -231,9 +220,7 @@ These seven assignments provided valuable exposure to research practices, analyt
 ---
 
 <p align="center">
-
-**📚 Research Methodology | Academic Coursework | 2026–27**
-
-*Learning to Research. Researching to Innovate.*
-
+  <b>📚 Research Methodology | Academic Coursework | 2026–27</b>
+  <br>
+  <i>Learning to Research. Researching to Innovate.</i>
 </p>
